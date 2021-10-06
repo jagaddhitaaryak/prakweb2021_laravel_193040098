@@ -25,6 +25,6 @@ Route::get('/about', function () {
     ]);
 });
 
-Route::get('/', function () {
+Route::get('/blog', function () {
     return view('posts');
 });
