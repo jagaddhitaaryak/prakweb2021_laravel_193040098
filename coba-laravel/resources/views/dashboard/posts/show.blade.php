@@ -18,7 +18,6 @@
                      {!! $post->body !!} 
                 </article>
                 {{-- tanda seru diatas untuk membuat paragraf --}}
-            <a href="/posts" class="d-block mt-3">Back to Posts</a>
         </div>
     </div>
 </div>
